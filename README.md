@@ -14,7 +14,7 @@ This is the first website I created back in 2023 during my first year of college
 
 - Header with Amazon logo and navigation bar
 - Search bar
-- Sign-in and cart section
+- Country and cart section
 - Product sections laid out in a grid
 - Footer section similar to Amazon
 
