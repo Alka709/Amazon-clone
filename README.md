@@ -24,6 +24,8 @@ This is the first website I created back in 2023 during my first year of college
 
 ![image](https://github.com/user-attachments/assets/2f9a56bd-290c-49b0-84a6-6fc982ba1f07)
 
+![image](https://github.com/user-attachments/assets/88dbf465-71c9-444a-bb49-ed4a64717f10)
+
 
 ## 🚀 How to View
 
